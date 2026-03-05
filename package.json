@@ -1,0 +1,23 @@
+{
+  "name": "legenda",
+  "version": "1.0.0",
+  "description": "browser based game",
+  "keywords": [
+    "game"
+  ],
+  "homepage": "https://github.com/Crobhderg/legenda#readme",
+  "bugs": {
+    "url": "https://github.com/Crobhderg/legenda/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Crobhderg/legenda.git"
+  },
+  "license": "ISC",
+  "author": "Crobh derg",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
