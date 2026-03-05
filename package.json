@@ -17,7 +17,5 @@
   "author": "Crobh derg",
   "type": "commonjs",
   "main": "index.js",
-  "scripts": {
-    "test": ""
-  }
+  "scripts": {}
 }
